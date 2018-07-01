@@ -1,0 +1,2 @@
+/usr/bin/ar qc libglip.a  CMakeFiles/glip.dir/glipColors.c.o CMakeFiles/glip.dir/glipImages.c.o CMakeFiles/glip.dir/glipDisplayImage.c.o
+/usr/bin/ranlib libglip.a

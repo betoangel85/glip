@@ -1,0 +1,3 @@
+/usr/local/uv_libs/lib/libglip.a
+/usr/local/uv_libs/include/glip.h
+/usr/local/uv_libs/include/glipImageSt.h

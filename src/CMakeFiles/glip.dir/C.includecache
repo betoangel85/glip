@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robert/ros_wokspace/src/glip/src/glipColors.c
+
+/home/robert/ros_wokspace/src/glip/src/glipDefaults.h
+
+/home/robert/ros_wokspace/src/glip/src/glipDisplayImage.c
+stdio.h
+-
+string.h
+-
+math.h
+-
+GL/glut.h
+-
+glipImageSt.h
+/home/robert/ros_wokspace/src/glip/src/glipImageSt.h
+glipImages.h
+/home/robert/ros_wokspace/src/glip/src/glipImages.h
+glipDefaults.h
+/home/robert/ros_wokspace/src/glip/src/glipDefaults.h
+
+/home/robert/ros_wokspace/src/glip/src/glipImageSt.h
+
+/home/robert/ros_wokspace/src/glip/src/glipImages.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+glipImageSt.h
+/home/robert/ros_wokspace/src/glip/src/glipImageSt.h
+
+/home/robert/ros_wokspace/src/glip/src/glipImages.h
+glipImageSt.h
+/home/robert/ros_wokspace/src/glip/src/glipImageSt.h
+
